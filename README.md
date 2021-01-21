@@ -4,6 +4,7 @@
 前言：
 前段时间发现小黄鱼上出现戴尔 7060MFF (5060MFF&3060MFF) ，近期就Dell OptiPlex 7060MFF进行黑苹果的研究和安装，目前已经完成最新版系统Big Sur 11.1的安装，正在使用，目前未发现较大问题，该小主机日常使用还是比较安静的，简单办公还是靠谱的。
 
+
 硬件规格：
 Dell OptiPlex 7060 Micro Form Factor
 处理器: Intel® Core™ i5-8600T
@@ -12,13 +13,16 @@ Dell OptiPlex 7060 Micro Form Factor
 硬盘: WD SN550 NVMe SSD 500G
 Wi-Fi & Bluetooth: BCM94360CS2 +NGFF 反向转接卡
 
+
 已解决：
 4K状态下的休眠唤醒问题
 DP连接时的音频输出
 已定制USB
 
+
 问题：
 目前已知问题：麦克风无法使用
+
 
 要点：
 BIOS设置
